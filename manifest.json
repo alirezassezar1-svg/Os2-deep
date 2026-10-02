@@ -1,0 +1,18 @@
+{
+  "name": "NONONICK DIGITAL OS",
+  "short_name": "NONONICK",
+  "description": "Personal Digital Operating System · BUILD. CONNECT. AUTOMATE. CONTROL.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05070a",
+  "theme_color": "#05070a",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["productivity", "developer", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
